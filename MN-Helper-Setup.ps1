@@ -144,7 +144,7 @@ Clear-Host
                     Write-Host "16: " -ForegroundColor white -NoNewline;Write-Host "ReportTimer: " -ForegroundColor red -NoNewline; Write-Host $ReportTimer
                     Write-Host "17: " -ForegroundColor white -NoNewline;Write-Host "ReportOnOff: " -ForegroundColor red -NoNewline; Write-Host $ReportOnOff
                         # Alert Setting 
-                        Write-Host "========= Reporter Settings ============="
+                        Write-Host "========= Alert Settings ============="
                         Write-Host "18: " -ForegroundColor white -NoNewline;Write-Host "MailSubjectAlert: " -ForegroundColor red -NoNewline; Write-Host $MailSubjectAlert
                         Write-Host "19: " -ForegroundColor white -NoNewline;Write-Host "MailBodyAlert: " -ForegroundColor red -NoNewline; Write-Host $MailBodyAlert
                         Write-Host "20: " -ForegroundColor white -NoNewline;Write-Host "AlertTimer: " -ForegroundColor red -NoNewline; Write-Host $AlertTimer
@@ -251,7 +251,7 @@ default {}
                     Write-Host "16: " -ForegroundColor white -NoNewline;Write-Host "ReportTimer: " -ForegroundColor red -NoNewline; Write-Host $ReportTimer
                     Write-Host "17: " -ForegroundColor white -NoNewline;Write-Host "ReportOnOff: " -ForegroundColor red -NoNewline; Write-Host $ReportOnOff
                         # Alert Setting
-                        Write-Host "========= Reporter Settings ============="
+                        Write-Host "========= Alert Settings ============="
                         Write-Host "18: " -ForegroundColor white -NoNewline;Write-Host "MailSubjectAlert: " -ForegroundColor red -NoNewline; Write-Host $MailSubjectAlert
                         Write-Host "19: " -ForegroundColor white -NoNewline;Write-Host "MailBodyAlert: " -ForegroundColor red -NoNewline; Write-Host $MailBodyAlert
                         Write-Host "20: " -ForegroundColor white -NoNewline;Write-Host "AlertTimer: " -ForegroundColor red -NoNewline; Write-Host $AlertTimer
