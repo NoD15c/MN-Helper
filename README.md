@@ -1,6 +1,9 @@
 # MN-Helper
 Reporting for Mastermodes - powershell -> for working you need Strax based Masternode
 
+This Scrip is looking at your MN if you are Mining or not, it send you a Email on missed Mining over time. 2 diverent timeshedules vor "still alive Message" and a "Backup/Update" reminder.
+Also a Alert Mail on Remotelogon is possible. ->> atm not working on all systems
+
 feel free to make a donate to this Strax Adress:
 XVQqFEWJ2YbbccD4RLpuXTf8kqjvZPLdwe
 
