@@ -1,6 +1,9 @@
 # MN-Helper
 Reporting for Mastermodes - powershell -> for working you need Strax based Masternode
 
+feel free to make a donate to this Strax Adress:
+XVQqFEWJ2YbbccD4RLpuXTf8kqjvZPLdwe
+
 
  is not digitally signed message :
  Its needed to Unblock the file by right clicking on the zip. And ticking the unblock checkbox.
