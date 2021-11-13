@@ -4,6 +4,9 @@ Reporting for Mastermodes - powershell -> for working you need Strax based Maste
 This Scrip is looking at your MN if you are Mining or not, it send you a Email on missed Mining over time. 2 diverent timeshedules vor "still alive Message" and a "Backup/Update" reminder.
 Also a Alert Mail on Remotelogon is possible. ->> atm not working on all systems
 
+please be considerate. my programming skills are somewhat similar to my knowledge of English just starting
+
+
 feel free to make a donate to this Strax Adress:
 XVQqFEWJ2YbbccD4RLpuXTf8kqjvZPLdwe
 
