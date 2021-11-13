@@ -48,7 +48,7 @@ if($ReportOnOff -eq "on"){
                                                                 $parsing=Invoke-WebRequest "http://127.0.0.1:37223/api/dashboard/stats"
                                                                 $parsing.ParsedHtml.body.innerHTML
                                                                 $parsing.ParsedHtml.body.innerText
-                                                                $parsing.RawContent > .\MNWebContentReport1.txt}
+                                                                $parsing.RawContent > .\MNWebContentReport.txt}
    
    
 # show current Timings
