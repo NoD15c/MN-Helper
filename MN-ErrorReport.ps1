@@ -68,7 +68,7 @@ Write-Host -ForegroundColor white -NoNewline "Error Reporter check all: ";Write-
         #if($ErrorReportOnOFF -eq "on"){ $parsing=Invoke-WebRequest "google.de"
          $parsing.ParsedHtml.body.innerHTML
          $parsing.ParsedHtml.body.innerText
-         $parsing.RawContent > .\MNWebContent1.txt}
+         $parsing.RawContent > .\MNWebContent.txt}
     # Filter and count if error
          $InfoForMatch=Select-String -path .\MNWebContent.txt -pattern "█████"
          $matchNotMining = $InfoForMatch -match "<█████>"
