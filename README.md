@@ -69,7 +69,7 @@ AlertTimer = Time in secounds for next check of logon status
 AlertOnOff $ReminderOnOFF = switch for on or  / off
 
 
-# the scrips:
+# The scrips:
 MN-Helper-Setup.ps1 - only for setup the needed variables , it will be saved in the ini.txt .the other scrips take the ini.txt file to fill there varibles
 MN-ErrorReport.ps1 - send you a mail if the Mining not works.whit existing and filled ini.txt the srcipt can start seperatly whitout each other
 MN-Reporter.ps1 - send you a mail every tiem you setup (i am alive). whit existing and filled ini.txt the srcipt can start seperatly whitout each other
