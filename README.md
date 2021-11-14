@@ -19,7 +19,7 @@ XVQqFEWJ2YbbccD4RLpuXTf8kqjvZPLdwe
  
  
  
- Setup:
+# Setup:
 Make a new folder on your desktop ( any name )
 Put the files frome the MN-Helper folder  in it. (Current MN-Helper-Setup.ps1, MN-ErrorReport.ps1, MN-Reporter.ps1, MN-Scheduler.ps1, MN-Alert.ps1)
 Open your powershell and navigate to this new folder and start the MN-Helper-Setup.ps1 file
