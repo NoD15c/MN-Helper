@@ -27,7 +27,7 @@ This Setup will save a ini.txt file and mailpw.txt and maybee a backupfile of th
  They load the variables over it.The ini and pw file will needed to hold the settings on a restart oft he scripts.
 In the first steps on mail account setting it needs to create a credential Username/pw from the Mailaccount. 
 It will be save as a Securestring and will work only on the same Computer you created it.
-In my example i use gmx - work great - but you have to activate IMAP in the settings of your GMX account - needs some minutes to work after switching
+In my example i use gmx - works great - but you have to activate IMAP in the settings of your GMX account - needs some minutes to work after switching
 
 Explain the Parameters:
 # Mail Setting
