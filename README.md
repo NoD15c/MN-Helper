@@ -76,4 +76,4 @@ MN-Reporter.ps1 - send you a mail every tiem you setup (i am alive). whit existi
 MN-Scheduler.ps1 - send you a mail every time you setup (Scheduler for BackUp or Updates). whit existing and filled ini.txt the srcipt can start seperatly whitout each other
 
 not 100% finisht is:
-MN-Alert.ps1 - send you a email if soemone logon per remotesession. whit existing and filled ini.txt the srcipt can start seperatly whitout each other
+MN-Alert.ps1 - send you a email if someone logon per remotesession. whit existing and filled ini.txt the srcipt can start seperatly whitout each other
