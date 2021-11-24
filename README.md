@@ -1,6 +1,6 @@
 
 
-[image](https://github.com/NoD15c/MN-Helper/blob/main/MN-Helper_Pic1.JPG?raw=true)
+[image](https://github.com/NoD15c/MN-Helper/blob/main/MN-Helper_Pic1.JPG)
 
 
 
