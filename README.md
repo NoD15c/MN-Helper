@@ -1,4 +1,11 @@
+
+
+[image](https://github.com/NoD15c/MN-Helper/blob/main/MN-Helper_Pic1.JPG?raw=true)
+
+
+
 # MN-Helper
+
 Reporting for Mastermodes - powershell -> for working you need Strax based Masternode
 
 This Scrip is looking at your MN if you are Mining or not, it send you a Email on missed Mining over time. 2 diverent timeshedules vor "still alive Message" and a "Backup/Update" reminder.
